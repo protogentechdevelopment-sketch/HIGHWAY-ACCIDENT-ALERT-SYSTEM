@@ -1,4 +1,4 @@
-# 🚨 Highway Accident Alert System and Immediate Response to Patrol & Ambulance Service
+# 🚨 HIGHWAY ACCIDENT ALERT SYSTEM
 
 > An IoT-enabled embedded system for automated highway accident detection and real-time emergency dispatch using STM32, MPU6050, GPS NEO-8M, and GSM SIM800L.
 
